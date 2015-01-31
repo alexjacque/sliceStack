@@ -1,5 +1,5 @@
 # sliceStack
-A Processing [processing.org](http://processing.org) script to take a folder of images, take slices from each and place them next to each other in the order they're listed in the folder.
+A Processing ([processing.org](http://processing.org)) script to take a folder of images, take slices from each and place them next to each other in the order they're listed in the folder.
 
 ## Two Examples
 
