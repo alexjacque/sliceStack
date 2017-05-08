@@ -4,7 +4,7 @@ A Processing ([processing.org](http://processing.org)) script to take a folder o
 ## Two Examples
 
 A year of self portraits:
-![Alex Jacque: Year three.](https://dl.dropboxusercontent.com/u/32129742/dont-delete/github/sliceStack/alexjacque_sliceStack_year3.jpg)
+![Alex Jacque: Year three.](http://alexjacque.com/images/github/sliceStack/alexjacque_sliceStack_year3.jpg)
 
 Colors (from this example):
-![A rainbow of colors.](https://dl.dropboxusercontent.com/u/32129742/dont-delete/github/sliceStack/sliceStack.png)
+![A rainbow of colors.](http://alexjacque.com/images/github/sliceStack/sliceStack.png)
